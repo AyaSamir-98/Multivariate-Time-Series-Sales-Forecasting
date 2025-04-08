@@ -23,9 +23,3 @@ This notebook tackles a classic time series forecasting task involving:
 - 🧠 **Feature Engineering**: Lag features, time-based variables  
 - 📦 **Modeling**: Applied single regression model across all time series groups  
 - 📏 **Evaluation**: RMSE, MAE, and prediction plots
-
----
-
-## 🗂️ Folder Structure
-Time_Series_Forecasting/ ├── notebooks/ │ └── Time_Series_Task.ipynb # Main Jupyter Notebook ├── data/ │ ├── raw/ # Raw input data files (optional) │ └── processed/ # Cleaned and transformed data ├── models/ # Saved model files (if applicable) ├── outputs/ │ ├── forecasts/ # Forecast results (CSV or plots) │ └── evaluation/ # Evaluation metrics and visualizations ├── README.md # Project overview and instructions └── requirements.txt # List of dependencies
-
